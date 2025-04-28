@@ -7,7 +7,7 @@ To write a Python program to Calculate Division using Inheritance.
 
 ### ALGORITHM
 
-1. Define the `Student` class.
+1. Start the program.
 2. Define class A with method detail() to set self.a to the global variable a.
 3. Define class B with method details() to set self.b to the global variable b.
 4. Define class calc (inheriting from A and B) with a method div():
