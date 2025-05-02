@@ -1,5 +1,5 @@
 # Exp.No:23  
-## Multiple Inheritance - DIVISION USING INHERITANCE
+## MULTIPLE INHERITANCE
 
 ### AIM  
 
