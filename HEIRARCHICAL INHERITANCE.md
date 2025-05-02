@@ -1,5 +1,5 @@
 # Exp.No:25  
-## Hierarchical Inheritance - EMPLOYEE DETAILS
+## HEIRARCHICAL INHERITANCE
 
 ### AIM  
 
