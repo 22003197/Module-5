@@ -1,5 +1,5 @@
 # Exp.No:23  
-## MULTIPLE INHERITANCE
+# INHERITANCE - 1
 
 ### AIM  
 
