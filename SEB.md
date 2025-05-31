@@ -1,5 +1,5 @@
 # Exp.No:25  
-# INHERITANCE - 2
+# SEB
 
 ### AIM  
 
