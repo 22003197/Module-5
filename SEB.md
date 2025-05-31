@@ -1,5 +1,5 @@
 # Exp.No:25  
-## HEIRARCHICAL INHERITANCE
+# INHERITANCE - 2
 
 ### AIM  
 
