@@ -1,5 +1,5 @@
 # Exp.No:22  
-## Destructor
+# Python Destructor
 
 ### AIM  
 
