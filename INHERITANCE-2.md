@@ -1,5 +1,5 @@
 # Exp.No:24  
-## MULTI-LEVEL INHERITANCE
+# INHERITANCE-2
 
 ### AIM  
 
